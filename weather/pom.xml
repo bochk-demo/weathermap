@@ -13,7 +13,7 @@
     <packaging>jar</packaging>
 
     <name>weather</name>
-    <url>http://maven.apache.org</url>
+    <url>https://maven.apache.org</url>
 
     <properties>
         <app.main>com.service.weather.WeatherApplication</app.main>
